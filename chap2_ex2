@@ -1,0 +1,14 @@
+name=input ("hello, what's your name?""\n")
+print("hello", name,"\n")
+print ("so", name, "let's figure your pay\n")
+hours=input("enter the number of hours worked")
+print(type(hours))
+hours=float(hours)	#converts the variable from a strin to an int
+print(type(hours))
+rate=input("Enter the hourly rate")
+print(type (rate))
+rate=float(rate)
+print(type(rate))
+salary=hours*rate
+print(salary)
+
