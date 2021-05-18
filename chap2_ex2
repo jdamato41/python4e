@@ -12,3 +12,4 @@ print(type(rate))
 salary=hours*rate
 print(salary)
 
+iate=input"goodbye")("enter your rate as a decimal")
