@@ -1,15 +1,19 @@
 name=input ("hello, what's your name?""\n")
 print("hello", name,"\n")
 print ("so", name, "let's figure your pay\n")
-hours=input("enter the number of hours worked")
+answer=input ("do you want to do that? y or \n")
+if answer=y
+	print ("cool")
+hours=input("enter the number of hours worked \n")
 print(type(hours))
 hours=float(hours)	#converts the variable from a strin to an int
 print(type(hours))
-rate=input("Enter the hourly rate")
+rate=input("Enter the hourly rate \n") 
 print(type (rate))
 rate=float(rate)
 print(type(rate))
 salary=hours*rate
+print (" ")
 print(salary)
 
-iate=input"goodbye")("enter your rate as a decimal")
+
